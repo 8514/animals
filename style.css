@@ -1,8 +1,10 @@
 .copy_right_footer{
 text-align: center;
 text-shadow:1px 1px gray ;  
-height: 30px;
-bottom: 0px;
+bottom: 0;
+line-height: 3;
+position: fixed;
+width:100%;
 }
 .header_div{
 background-color:#5a554f ;    
